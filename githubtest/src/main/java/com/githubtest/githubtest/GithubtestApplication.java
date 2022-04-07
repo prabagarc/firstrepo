@@ -9,7 +9,7 @@ public class GithubtestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GithubtestApplication.class, args);
 		
-	 // from local repo
+	 // from local repo updated from branchx
 	}
 
 }
